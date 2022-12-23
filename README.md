@@ -3,33 +3,16 @@
 		<h1>Hi there, I'm <a href="https:">Tanisha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 		
-		<p align="left"> 
-			<img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> 
-		</p>
+		![tanjo07](https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat)
 
-		<p align="center">
-			
-		<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+you+doin%3F;+I+am+a+Physics+Scholar;++A+Passionate+Frontend+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!"/></a>
-		</p>
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+you+doin%3F;+I+am+a+Physics+Scholar;++A+Passionate+Frontend+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!)](https://github.com/DenverCoder1/readme-typing-svg)
 
-		
-		
-		
-		<div align="center">
-		<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Tanisha Joshi | 💻 Passionate Frontend Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-		</div>
-		
-		
-		
-		
-		<h5 align="center">
-		<i>⚡️ The best way to predict the future is to invent it. Anything is Possible.⚡️</i>
-		</h5>
-		
-		
-		<br />
-		<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+### ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) 🙎 Tanisha Joshi | 💻 Passionate Frontend Developer | 🛸 India , UK ![](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
+##### _⚡️ The best way to predict the future is to invent it. Anything is Possible.⚡️_
+
+  
+![GIF](https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif) - 🥀 Learning Swift & Objective\_C - _with Javascript, Typescript, React and 77 others._ - 🔭 Intrigued by the mysteries of the universe. - 🛸 Into High Energy Physics, Astrophysics and Cosmology, i love Stargazing too. - I do fullstack and a bit of everything :heart: - All About living life and feeling alive. - 🔭 I’m currently working on \*\*my dream project\*\*
 		
 
 		- 🥀 Learning Swift & Objective_C
