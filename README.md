@@ -1,7 +1,7 @@
 <div align="center">
-                 <img align="right" height="270px" width="450px" alt="GIF" src=https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif">
+                 
 		<h1>Hi there, I'm <a href="https:">Tanisha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-		</div>
+
 		
 		<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> </p>
 
