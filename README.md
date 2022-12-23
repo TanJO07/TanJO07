@@ -1,7 +1,8 @@
 <div align="center">
                  <img align="right" height="270px" width="450px" alt="GIF" src=https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif">
 		<h1>Hi there, I'm <a href="https:">Tanisha</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-		<img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
+		
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="62.765625" height="20"><defs id="SvgjsDefs1001"></defs><svg id="SvgjsSvg1002" style="overflow: hidden; top: -100%; left: -100%; position: absolute; opacity: 0;" width="2" height="0" focusable="false"><polyline id="SvgjsPolyline1003" points="0,0"></polyline><path id="SvgjsPath1004" d="M0 0 "></path></svg><rect id="SvgjsRect1008" width="62.765625" height="20" fill="#undefined" rx="4" ry="4"></rect><text id="SvgjsText1009" font-family="Helvetica, Arial, sans-serif" fill="#ffffff" font-size="15.14" text-anchor="middle" size="15.14" anchor="middle" x="31.3828125" y="14.182353515625" svgjs:data="{&quot;leading&quot;:&quot;0&quot;}">She/Her</text></svg>
 		</div>
 		
 		<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> </p>
