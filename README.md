@@ -6,6 +6,7 @@
 <h3 align="center"> 💻 Passionate Web Developer | 🛸 India , UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> </p>
+</br>
 <p align="center">
 		<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 		<a href="https://github.com/DenverCoder1/readme-typing-svg">
