@@ -3,7 +3,7 @@
 		<h1>Hi there, I'm <a href="https:">Tanisha Joshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 		<img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 		</div>
-<h3 align="center"> 💻 Passionate Web Developer | 🛸 India , UK</h3>
+<h3 align="center"> 💻 Passionate Web Developer | 🛸 India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> </p>
 </br>
@@ -19,8 +19,7 @@
 		<img align="right" height="300px" width="400px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
     
 - 🔭 Intrigued by the mysteries of the **Universe**.
-
-- 🌱 I’m currently learning **Swift & Objective_C - with Javascript, Typescript, React and 77 others**.  
+- 🌱 **Machine Learning Enthusiast**
 - 🛸 Into High Energy Physics, Astrophysics and Cosmology, I love Stargazing too. 
 - I do a bit of everything ❤️.
 - All About living life and feeling alive.
@@ -37,8 +36,8 @@
 [<img align="left" alt="Tanisha Joshi| Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 -->
 <p align="center">
- <a href="https://www." target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/tanisha-joshi-0707" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://tanjomatrix.vercel.app/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/tanjo07" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:tanishajoshi14@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 
 </p>
