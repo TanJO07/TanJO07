@@ -3,14 +3,14 @@
 		<h1>Hi there, I'm <a href="https:">Tanisha Joshi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 		<img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20"> 
 		</div>
-<h3 align="center"> 💻 Passionate Web Developer | 🛸 India </h3>
+<h3 align="center"> 💻  Web Developer | 🛸 India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanjo07&label=Profile%20views&color=0e75b6&style=flat" alt="tanjo07" /> </p>
 </br>
 <p align="center">
 		<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 		<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+you+doin%3F;+I+am+a+Physics+Scholar;++A+Passionate+Web+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!"/></a>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+is+your+code+running%3F;+I'm+a+Cosmology+Research+Scholar;++A+Passionate+Web+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!"/></a>
 		</p>
 <h5 align="center">
   <h1 align="center">	<i>⚡️The best way to predict the future is to invent it. Anything is Possible.⚡️</i></h1>
