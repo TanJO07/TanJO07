@@ -10,7 +10,7 @@
 <p align="center">
 		<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 		<a href="https://github.com/DenverCoder1/readme-typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+is+your+code+running%3F;+I'm+a+Cosmology+Research+Scholar;++A+Passionate+Web+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!"/></a>
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&background=FFFFFF00&width=435&lines=Hello+World!+How+is+your+code+running!!%3F;+I'm+a+Cosmology+Research+Scholar!;++A+Passionate+Web+Developer;Arranging+Bits+%26+Bytes;Tech+Enthusiast;Always+learning+new+things;That's+a+lot+of+information!!"/></a>
 		</p>
 <h5 align="center">
   <h1 align="center">	<i>⚡️The best way to predict the future is to invent it. Anything is Possible.⚡️</i></h1>
